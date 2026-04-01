@@ -1,0 +1,10 @@
+C:\Users\Amiepc\Desktop\Flappy Birdy\bin\Debug\Flappy Birdy.exe.config
+C:\Users\Amiepc\Desktop\Flappy Birdy\bin\Debug\Flappy Birdy.exe
+C:\Users\Amiepc\Desktop\Flappy Birdy\bin\Debug\Flappy Birdy.pdb
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy Birdy.csproj.AssemblyReference.cache
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy_Birdy.Form1.resources
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy_Birdy.Properties.Resources.resources
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy Birdy.csproj.GenerateResource.cache
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy Birdy.csproj.CoreCompileInputs.cache
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy Birdy.exe
+C:\Users\Amiepc\Desktop\Flappy Birdy\obj\Debug\Flappy Birdy.pdb
